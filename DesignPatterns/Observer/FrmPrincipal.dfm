@@ -14,14 +14,15 @@ object Form1: TForm1
   OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 13
-  inline FrameCadastrar1: TFrameCadastrar
+  inline oFrameCadastrar: TFrameCadastrar
     Left = 0
     Top = 0
     Width = 216
     Height = 142
     Align = alClient
     TabOrder = 0
-    ExplicitHeight = 121
+    ExplicitWidth = 216
+    ExplicitHeight = 142
     inherited Label2: TLabel
       Left = 30
       Top = 43
@@ -37,31 +38,31 @@ object Form1: TForm1
       ExplicitTop = 84
     end
   end
-  inline FrameSaldo1: TFrameSaldo
+  inline oFrameSaldo: TFrameSaldo
     Left = 216
     Top = 0
     Width = 252
     Height = 142
     Align = alRight
     TabOrder = 1
-    ExplicitLeft = 224
-    ExplicitHeight = 121
+    ExplicitLeft = 216
+    ExplicitHeight = 142
   end
-  inline FrameLog1: TFrameLog
+  inline oFrameLog: TFrameLog
     Left = 0
     Top = 142
     Width = 468
     Height = 99
     Align = alBottom
     TabOrder = 2
-    ExplicitTop = 200
-    ExplicitWidth = 635
+    ExplicitTop = 142
+    ExplicitWidth = 468
     ExplicitHeight = 99
     inherited MmoLog: TMemo
       Width = 468
       Height = 99
-      ExplicitWidth = 635
-      ExplicitHeight = 89
+      ExplicitWidth = 468
+      ExplicitHeight = 99
     end
   end
 end

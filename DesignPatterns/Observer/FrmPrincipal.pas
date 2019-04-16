@@ -9,9 +9,9 @@ uses
 
 type
   TForm1 = class(TForm)
-    FrameCadastrar1: TFrameCadastrar;
-    FrameSaldo1: TFrameSaldo;
-    FrameLog1: TFrameLog;
+    oFrameCadastrar: TFrameCadastrar;
+    oFrameSaldo: TFrameSaldo;
+    oFrameLog: TFrameLog;
     procedure FormCreate(Sender: TObject);
   end;
 
@@ -24,8 +24,8 @@ implementation
 
 procedure TForm1.FormCreate(Sender: TObject);
 begin
-  FrameCadastrar1.AdicionarObserver(FrameSaldo1);
-  FrameCadastrar1.AdicionarObserver(FrameLog1);
+  oFrameCadastrar.AdicionarObserver(oFrameSaldo);
+  oFrameCadastrar.AdicionarObserver(oFrameLog);
 end;
 
 end.

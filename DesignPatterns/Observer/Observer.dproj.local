@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/23 14:11:08.000.404,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/19 19:35:27.000.668,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/26 19:38:50.000.385,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/05 22:33:16.000.509,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/15 19:27:25.000.001,=C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/04/15 19:27:57.000.994,C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmPrincipal.pas</Transaction>
+    <Transaction>2019/04/15 19:27:57.000.994,C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmPrincipal.dfm</Transaction>
+    <Transaction>2019/04/15 19:28:01.000.490,C:\Users\edu02\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Observer.dproj</Transaction>
+    <Transaction>2019/04/15 19:28:08.000.415,=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas</Transaction>
+    <Transaction>2019/04/15 19:29:18.000.154,=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit2.pas</Transaction>
+    <Transaction>2019/04/15 19:30:01.000.129,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Notificacao.pas</Transaction>
+    <Transaction>2019/04/15 19:30:46.000.217,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit2.pas=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\ObserverInterface.pas</Transaction>
+    <Transaction>2019/04/15 19:32:20.000.601,=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas</Transaction>
+    <Transaction>2019/04/15 19:39:27.000.555,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.dfm=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmSaldo.dfm</Transaction>
+    <Transaction>2019/04/15 19:39:27.000.555,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmSaldo.pas</Transaction>
+    <Transaction>2019/04/15 21:41:52.000.748,=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas</Transaction>
+    <Transaction>2019/04/15 21:42:59.000.888,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmLog.pas</Transaction>
+    <Transaction>2019/04/15 21:42:59.000.888,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.dfm=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmLog.dfm</Transaction>
+    <Transaction>2019/04/15 21:46:52.000.508,=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas</Transaction>
+    <Transaction>2019/04/15 21:48:21.000.787,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\SubjectInterface.pas</Transaction>
+    <Transaction>2019/04/15 21:51:35.000.046,=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas</Transaction>
+    <Transaction>2019/04/15 21:53:01.000.804,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.pas=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmCadastrar.pas</Transaction>
+    <Transaction>2019/04/15 21:53:01.000.804,G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\Unit1.dfm=G:\projetosGIT\ProjetosDelphi\DesignPatterns\Observer\FrmCadastrar.dfm</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FrmCadastrar.pas"/>
+    <File Path="FrmCadastrar.dfm"/>
+    <File Path="FrmLog.pas"/>
+    <File Path="FrmLog.dfm"/>
+    <File Path="FrmPrincipal.pas"/>
+    <File Path="FrmPrincipal.dfm"/>
+    <File Path="FrmSaldo.pas"/>
+    <File Path="FrmSaldo.dfm"/>
+    <File Path="Notificacao.pas"/>
+    <File Path="ObserverInterface.pas"/>
+    <File Path="SubjectInterface.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
